@@ -1,0 +1,15 @@
+C:\Users\01lineli\AppData\Local\Temporary Projects\47FarbcodeDerWiderstände\bin\Debug\47FarbcodeDerWiderstände.exe
+C:\Users\01lineli\AppData\Local\Temporary Projects\47FarbcodeDerWiderstände\bin\Debug\47FarbcodeDerWiderstände.pdb
+C:\Users\01lineli\AppData\Local\Temporary Projects\47FarbcodeDerWiderstände\obj\x86\Debug\_47FarbcodeDerWiderstände.Form1.resources
+C:\Users\01lineli\AppData\Local\Temporary Projects\47FarbcodeDerWiderstände\obj\x86\Debug\_47FarbcodeDerWiderstände.Properties.Resources.resources
+C:\Users\01lineli\AppData\Local\Temporary Projects\47FarbcodeDerWiderstände\obj\x86\Debug\47FarbcodeDerWiderstände.csproj.GenerateResource.Cache
+C:\Users\01lineli\AppData\Local\Temporary Projects\47FarbcodeDerWiderstände\obj\x86\Debug\47FarbcodeDerWiderstände.exe
+C:\Users\01lineli\AppData\Local\Temporary Projects\47FarbcodeDerWiderstände\obj\x86\Debug\47FarbcodeDerWiderstände.pdb
+H:\Eigene Dokumente\Visual Studio 2010\Projects\47FarbcodeDerWiderstände\47FarbcodeDerWiderstände\obj\x86\Debug\47FarbcodeDerWiderstände.exe
+H:\Eigene Dokumente\Visual Studio 2010\Projects\47FarbcodeDerWiderstände\47FarbcodeDerWiderstände\obj\x86\Debug\47FarbcodeDerWiderstände.pdb
+H:\Eigene Dokumente\Visual Studio 2010\Projects\47FarbcodeDerWiderstände\47FarbcodeDerWiderstände\bin\Debug\47FarbcodeDerWiderstände.exe
+H:\Eigene Dokumente\Visual Studio 2010\Projects\47FarbcodeDerWiderstände\47FarbcodeDerWiderstände\bin\Debug\47FarbcodeDerWiderstände.pdb
+H:\Eigene Dokumente\Visual Studio 2010\Projects\47FarbcodeDerWiderstände\47FarbcodeDerWiderstände\obj\x86\Debug\_47FarbcodeDerWiderstände.Form1.resources
+H:\Eigene Dokumente\Visual Studio 2010\Projects\47FarbcodeDerWiderstände\47FarbcodeDerWiderstände\obj\x86\Debug\_47FarbcodeDerWiderstände.Properties.Resources.resources
+H:\Eigene Dokumente\Visual Studio 2010\Projects\47FarbcodeDerWiderstände\47FarbcodeDerWiderstände\obj\x86\Debug\47FarbcodeDerWiderstände.csproj.GenerateResource.Cache
+H:\Eigene Dokumente\Visual Studio 2010\Projects\47FarbcodeDerWiderstände\47FarbcodeDerWiderstände\obj\x86\Debug\47FarbcodeDerWiderstände.csprojResolveAssemblyReference.cache
